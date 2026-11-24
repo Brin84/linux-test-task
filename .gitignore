@@ -1,0 +1,8 @@
+# Тяжёлые артефакты стенда — в git не идут
+iso/
+vms/
+store/
+*.vhdx
+*.iso
+*.tar
+*.tar.gz
